@@ -1,0 +1,8 @@
+export enum RestaurantType {
+  GASTRONOMIC = 'GASTRONOMIC',
+  ITALIAN = 'ITALIAN',
+  FRITERIE = 'FRITERIE',
+  PITA = 'PITA',
+  CHINESE = 'CHINESE',
+  KOREAN = 'KOREAN'
+}
